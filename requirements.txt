@@ -8,5 +8,5 @@ matplotlib
 scipy
 prince
 kmodes
-fcmeans
+fuzzy-c-means
 xlsxwriter
