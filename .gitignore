@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Build
+dist/
+build/
+
+# Output
+output/
+*.html
+
+# ZIP
+*.zip
+
+# Node
+node_modules/
+.next/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

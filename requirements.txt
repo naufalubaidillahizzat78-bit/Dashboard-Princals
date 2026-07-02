@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openpyxl
+scikit-learn
+plotly
+matplotlib
+scipy
+prince
+kmodes
+fcmeans
+xlsxwriter
